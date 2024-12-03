@@ -10,8 +10,8 @@
   margin: (
     top: 0.5cm,
     bottom: 0.5cm,
-    left: 0.5cm,
-    right: 0.5cm
+    left: 1cm,
+    right: 1cm
   ),
   fill: rgb("#f4f2e6"),
 )
@@ -23,7 +23,7 @@
   #(it.body)
 ]
 
-#place(center, dy: 10%)[
+#place(center, dy: 15%)[
   = Milli, a százlábú
 ]
 
@@ -33,7 +33,7 @@
 // Content
 
 #set align(center)
-#set text(font: "Noto Sans", size: 16pt)
+#set text(font: "Noto Sans", size: 14pt)
 
 #pagebreak(to: "even")
 
@@ -44,7 +44,7 @@
 #pagebreak()
 
 #align(horizon)[
-  #set text(size: 30pt)
+  #set text(size: 28pt)
   \
   Milli, a százlábú\
   \
@@ -115,7 +115,7 @@
 
 #place(dx: 23%, dy: 70%, rotate(120deg, image("../img/raspberry.png", width: 20%)))
 //#place(dx: 40%, dy: 57%, image("../img/plum1.png", width: 29%))
-#place(dx: 76%, dy: 81%, rotate(40deg, image("../img/blackberry.png", width: 30%)))#place(dx: 60%, dy: 45%, image("../img/honey.png", width: 34%))
+#place(dx: 76%, dy: 77%, rotate(40deg, image("../img/blackberry.png", width: 30%)))#place(dx: 60%, dy: 45%, image("../img/honey.png", width: 34%))
 #place(dx: 55%, dy: 77%, rotate(-90deg, image("../img/berry.png", width: 15%)))
 
 #place(dx: 40%, dy: 60%, image("../img/raspberry.png", width: 20%))
@@ -220,7 +220,7 @@
 #pagebreak()
 
 #align(horizon)[
-  Milli nagy álma természetesen az lett, hogy egyszer elmehessen egy almáskertbe, sőt, ha lehet,\ akkor a Pomázi Almáskertbe.
+  Milli nagy álma természetesen az lett, hogy egyszer elmehessen egy almáskertbe, sőt, ha lehet, akkor a Pomázi Almáskertbe.
 ]
 
 #pagebreak()
@@ -324,7 +324,7 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 
 #pagebreak()
 
-#align(horizon)[
+#place(dy: 20%, center)[
   Milli sokszor elképzelte,
   hogy milyen lehet egy igazi nagy almáskert. \
   Amikor meglátta a pomázi kertet, elakadt a lélegzete.
@@ -332,8 +332,8 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
   mindegyiken csodás érett, piros és sárga almákkal.
 ]
 
-#place(dx: 6%, dy: 23%, image("../img/flower6.png", width: 19%))
-#place(dx: 10%, dy: 8%, image("../img/flower2.png", width: 14%))
+#place(dx: 6%, dy: 87%, image("../img/flower6.png", width: 19%))
+#place(dx: 10%, dy: 72%, image("../img/flower2.png", width: 14%))
 
 #pagebreak()
 
@@ -358,6 +358,8 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 -- tűnődött Milli. \
 Ez nem tűnt teljesen veszélytelen dolognak, ugyanis egy-két méter magasra is fel kellett jutni az ágak között. Milli viszont úgy érezte, hogy a nyolc lába elég biztonságot ad ehhez.
 ]
+
+#place(dx: -65%, dy: -73%, image("../img/tree2.png", width: 70%))
 
 #pagebreak()
 
