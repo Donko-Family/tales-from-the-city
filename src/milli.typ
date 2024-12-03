@@ -255,7 +255,9 @@
 #pagebreak()
 
 #align(horizon)[
-  Egy nap, Sápi biztatására, \ kicsit félénken előállt az ötlettel, \ hogy egy őszi alkalommal szívesen elkísérné őket Pomázra természetesen csak ha ez nem jelent gondot.
+Egy nap, Sápi biztatására,\
+kicsit félénken előállt az ötlettel\ Apinak és Anyukának, hogy egy őszi alkalommal szívesen
+elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 ]
 
 #pagebreak()
@@ -405,7 +407,7 @@ Persze Api és barátja, Gábor, bátorították és segítettek neki feljutni a
 #pagebreak()
 
 #align(horizon)[
-  Milli még elalvás előtt visszaemlékezet \
+  Milli még elalvás előtt visszaemlékezett \
   a nap élményeire. Azon tűnődött, 
   hogy hány darab alma teremhetett a kertben?
 ]
@@ -470,11 +472,9 @@ Biztos segítenek majd." - és ásított egyet.
 
 #pagebreak()
 
-#align(horizon)[
+#place(dy: 75%, center)[
   #set text(size: 12pt)
-  Külön köszönet:\
-  Hoffmann Klára\
-  Donkó István
+  Köszönjük Hoffmann Klára és Donkó István tanácsait és segítségüket a könyv szerkesztésében. 
 ]
 
 #pagebreak()
