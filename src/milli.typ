@@ -23,11 +23,12 @@
   #(it.body)
 ]
 
-#place(center, dy: 23%)[
+#place(center, dy: 10%)[
   = Milli, a százlábú
 ]
 
-#place(center, dy: 38%, scale(x: -100%, image("../img/milli-cover.png")))
+
+#place(center, dy: 40%, scale(x: -100%, image("../img/milli-cover.png")))
 
 // Content
 
@@ -36,17 +37,26 @@
 
 #pagebreak(to: "even")
 
+#page(margin: 0cm)[
+  #place(center + horizon, image("../img/borito.png", width: 100%))
+]
+
 #pagebreak()
 
 #align(horizon)[
   #set text(size: 30pt)
-  Milli, a százlábú
+  \
+  Milli, a százlábú\
+  \
+  \
 ]
 
 #align(horizon)[
-  #set text(size: 20pt)
+  #set text(size: 12pt)
   írta: Donkó Zoltán\
-  rajzolta: Donkó Eszter Klára
+  rajzolta: Donkó Eszter Klára\
+  \
+  2024. Budaörs
 ]
 
 #pagebreak(to: "even")
@@ -205,17 +215,17 @@
 
 #pagebreak()
 
-#align(horizon)[
-  Milli nagy álma természetesen az lett, hogy egyszer elmehessen egy almáskertbe, sőt, ha lehet, akkor a Pomázi Almáskertbe.
-]
-
-#pagebreak()
-
 #place(center + horizon, rotate(90deg, image("../img/treegarden.png", width: 75%)))
 
 #pagebreak()
 
-#place(dx: 20%, dy: 25%, center)[
+#align(horizon)[
+  Milli nagy álma természetesen az lett, hogy egyszer elmehessen egy almáskertbe, sőt, ha lehet,\ akkor a Pomázi Almáskertbe.
+]
+
+#pagebreak()
+
+#place(dx: 20%, dy: 18%, center)[
   Felmászhasson \
   a fákra
 ]
@@ -233,14 +243,14 @@
 
 //#pagebreak()
 
-#place(dy: 18%, center)[
+#place(dy: 70%, center)[
   és jó alaposan megrághasson \ pár almát, úgy frissen, \
   ahogy a napsugár megérlelte.
 ]
 
-#place(dx: 9%, dy: 45%, scale(x:-100%, image("../img/milli-eating.png", width: 24%)))
+#place(dx: 9%, dy: 7%, scale(x:-100%, image("../img/milli-eating.png", width: 24%)))
 // #place(dx: 52%, dy: 25%, rotate(75deg,image("../img/appleeaten1.png", width: 21%)))
-#place(dx: 75%, dy: 60%, rotate(10deg, scale(x:-100%, image("../img/appleeaten2.png", width: 24%))))
+#place(dx: 75%, dy: 25%, rotate(10deg, scale(x:-100%, image("../img/appleeaten2.png", width: 24%))))
 
 #pagebreak()
 
@@ -299,16 +309,16 @@
 
 #pagebreak()
 
+#place(dx: 15%, dy: 42%, scale(x :-100%, image("../img/car.png", width: 72%)))
+#place(dx: 30.5%, dy: 53%, rotate(-92deg, image("../img/milli-car.png", width: 12%)))
+
+#pagebreak()
+
 #align(horizon)[
   Végre felvirradt a nap, amikor \
   Api és Anyuka elindultak Pomázra, \
   természetesen Millivel együtt.
 ]
-
-#pagebreak()
-
-#place(dx: 15%, dy: 42%, scale(x :-100%, image("../img/car.png", width: 72%)))
-#place(dx: 30.5%, dy: 53%, rotate(-92deg, image("../img/milli-car.png", width: 12%)))
 
 #pagebreak()
 
@@ -335,6 +345,12 @@
 
 #pagebreak()
 
+#place(dx: -30%, dy: 14%, image("../img/tree3.png", width: 80%))
+#place(dx: 55%, dy: -3%, image("../img/tree2.png", width: 70%))
+#place(dx: 42%, dy: 48%, rotate(180deg, image("../img/milli-back.png", width: 33%)))
+
+#pagebreak()
+
 #align(horizon)[
 "Melyikre is lenne érdemes felmászni?" \ 
 -- tűnődött Milli. \
@@ -343,14 +359,8 @@ Ez nem tűnt teljesen veszélytelen dolognak, ugyanis egy-két méter magasra is
 
 #pagebreak()
 
-#place(dx: -30%, dy: 14%, image("../img/tree3.png", width: 80%))
-#place(dx: 55%, dy: -3%, image("../img/tree2.png", width: 70%))
-#place(dx: 42%, dy: 48%, rotate(180deg, image("../img/milli-back.png", width: 33%)))
-
-#pagebreak()
-
 #align(horizon)[
-Persze Api és barátja#underline(stroke: red)[, Gábor,] bátorították és segítettek neki feljutni a legszebb gyümölcsök közelébe.
+Persze Api és barátja, Gábor, bátorították és segítettek neki feljutni a legszebb gyümölcsök közelébe.
 ]
 
 #pagebreak()
@@ -359,16 +369,16 @@ Persze Api és barátja#underline(stroke: red)[, Gábor,] bátorították és se
 
 #pagebreak()
 
-#align(horizon)[
-  Nagyon jól telt ez a nap Pomázon. \
-  Milli este Sápinak is beszámolt az élményekről. \
-  Egyetértettek abban, hogy mindenkinek kellenek álmok,
-  még akkor is, ha nem biztos, hogy valóra válnak.
-]
+#place(dx: 15%, dy: 10%, rotate(270deg, image("../img/milli-storytime.png", width: 66%)))
 
 #pagebreak()
 
-#place(dx: 15%, dy: 10%, rotate(270deg, image("../img/milli-storytime.png", width: 66%)))
+#align(horizon)[
+  Nagyon jól telt ez a nap Pomázon.\
+  Milli este Sápinak is beszámolt az élményekről. 
+  Egyetértettek abban, hogy mindenkinek kellenek álmok, 
+  még akkor is, ha nem biztos, hogy valóra válnak.
+]
 
 #pagebreak()
 
@@ -389,16 +399,16 @@ Persze Api és barátja#underline(stroke: red)[, Gábor,] bátorították és se
 
 #pagebreak()
 
+#place(dx: 7%, dy: 53%, image("../img/ground.png", width: 95%))
+#place(dx: 6%, dy: 22%, image("../img/milli-thinkback.png", width: 93%))
+
+#pagebreak()
+
 #align(horizon)[
   Milli még elalvás előtt visszaemlékezet \
   a nap élményeire. Azon tűnődött, 
   hogy hány darab alma teremhetett a kertben?
 ]
-
-#pagebreak()
-
-#place(dx: 7%, dy: 53%, image("../img/ground.png", width: 95%))
-#place(dx: 6%, dy: 22%, image("../img/milli-thinkback.png", width: 93%))
 
 #pagebreak()
 
@@ -454,3 +464,33 @@ Biztos segítenek majd." - és ásított egyet.
 ]
 
 #place(dx: 12%, dy: 16%, image("../img/chest.png", width: 75%))
+
+#pagebreak()
+
+
+#pagebreak()
+
+#align(horizon)[
+  #set text(size: 12pt)
+  Külön köszönet:\
+  Hoffmann Klára\
+  Donkó István
+]
+
+#pagebreak()
+
+#page(margin: 0cm)[
+  #place(center + horizon, image("../img/borito.png", width: 100%))
+]
+
+#pagebreak()
+
+#page(margin: 0cm)[
+  #place(center + horizon, image("../img/borito2.png", width: 100%))
+]
+
+#pagebreak()
+
+#page(margin: 0cm)[
+  #place(dx:15%, dy: 70%, image("../img/flower4.png", width: 20%))
+]
