@@ -1,6 +1,6 @@
 #set page(
-  width: 14cm,
-  height: 14cm,
+  width: 13cm,
+  height: 13cm,
   // margin: (
   //   top: 0cm,
   //   bottom: 0cm,
@@ -44,26 +44,25 @@
 #pagebreak()
 
 #align(horizon)[
-  #set text(size: 28pt)
-  \
-  Milli, a százlábú\
-  \
-  \
-]
+  #pad(bottom: 60pt, [
+    #set text(size: 28pt)
+    Milli, a százlábú
+  ])
 
-#align(horizon)[
-  #set text(size: 12pt)
-  írta: Donkó Zoltán\
-  rajzolta: Donkó Eszter Klára\
-  \
-  2024. Budaörs
+  #pad(top: 60pt, [
+    #set text(size: 12pt)
+    írta: Donkó Zoltán\
+    rajzolta: Donkó Eszter Klára\
+    \
+    Budaörs, 2024
+  ])
 ]
 
 #pagebreak(to: "even")
 
 #align(horizon)[
   Annak ellenére, hogy Milli százlábú volt, valójában csak nyolc lába volt. \
-  De ez sem őt, sem másokat nem zavart, mert a lábai szép színesek voltak.
+  De ez sem őt, sem másokat nem zavart,\ mert a lábai szép színesek voltak.
 ]
 
 #pagebreak()
@@ -73,7 +72,7 @@
 #pagebreak(to: "even")
 
 #place(center, dy: 15%)[
-  Miért is jó, ha valakinek színesek a lábai?
+  Miért is jó, ha valakinek színesek a lábai?\
   Milli esetében ez azért volt jó,
   mert mindegyik színről más gyümölcs jutott eszébe.
 ]
@@ -107,7 +106,7 @@
 #pagebreak(to: "even")
 
 #place(center, dy: 15%)[
-  Igen, Milli rajongott a gyümölcsökért.
+  Igen, Milli rajongott a gyümölcsökért.\
   Mindig várta a nyarat, amikor Anyuka
   különböző csemegékkel tért haza a
   szombat reggeli gazdapiacról.
@@ -289,10 +288,9 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 #pagebreak()
 
 #place(dy: 12%, center)[
-  Telt múlt az idő, \
-  rövidebbek lettek a nappalok és hosszabbak az éjszakák. \
-  Milli érezte, hogy ez \
-  az ősz beköszöntét jelzi.
+  Telt múlt az idő, rövidebbek lettek \
+  a nappalok és hosszabbak az éjszakák. \
+  Milli érezte, hogy ez az ősz beköszöntét jelzi.
 ]
 
 #place(dx: 7%, dy: 53%, image("../img/leaf1.png", width: 17%))
@@ -325,9 +323,9 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 #pagebreak()
 
 #place(dy: 20%, center)[
-  Milli sokszor elképzelte,
+  Milli sokszor elképzelte, \
   hogy milyen lehet egy igazi nagy almáskert. \
-  Amikor meglátta a pomázi kertet, elakadt a lélegzete.
+  Amikor meglátta a pomázi kertet, \ elakadt a lélegzete.
   Hosszú, rendezett sorokban álltak a fák,
   mindegyiken csodás érett, piros és sárga almákkal.
 ]
@@ -359,12 +357,12 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 Ez nem tűnt teljesen veszélytelen dolognak, ugyanis egy-két méter magasra is fel kellett jutni az ágak között. Milli viszont úgy érezte, hogy a nyolc lába elég biztonságot ad ehhez.
 ]
 
-#place(dx: -62%, dy: -67%, image("../img/tree2-yellow.png", width: 70%))
+#place(dx: -64%, dy: -69%, image("../img/tree2-yellow.png", width: 70%))
 
 #pagebreak()
 
 #align(horizon)[
-Persze Api és barátja, Gábor, bátorították és segítettek neki feljutni a legszebb gyümölcsök közelébe.
+Persze Api és barátja, Gábor, bátorították \ és segítettek neki feljutni a legszebb gyümölcsök közelébe.
 ]
 
 #pagebreak()
@@ -466,7 +464,7 @@ Biztos segítenek majd." - és ásított egyet.
 #pagebreak()
 
 #place(dy: 60%, center)[
- Közben arra gondolt, hogy a következő hetekben is bőven lesz mit csemegézni, ugyanis egy nagy láda almával tértek vissza Pomázról.
+ Közben arra gondolt, hogy a következő hetekben is bőven lesz mit csemegézni, ugyanis egy nagy láda almával tértek \ vissza Pomázról.
 ]
 
 #place(dx: 12%, dy: 16%, image("../img/chest.png", width: 75%))
