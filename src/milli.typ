@@ -1,6 +1,6 @@
 #set page(
-  width: 12cm,
-  height: 12cm,
+  width: 14cm,
+  height: 14cm,
   // margin: (
   //   top: 0cm,
   //   bottom: 0cm,
@@ -231,7 +231,7 @@
 ]
 
 
-#place(dx: -4.6%, dy: -10%, image("../img/milli-treeclimbing.png", height: 120%, fit: "contain"))
+#place(dx: -10%, dy: -10%, image("../img/milli-treeclimbing.png", height: 120%, fit: "contain"))
 
 #pagebreak()
 
@@ -338,7 +338,7 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 #pagebreak()
 
 #place(dx: 0%, dy: 28%, image("../img/tree1.png", width: 50%))
-#place(dx: 51%, dy: 8%, image("../img/tree2.png", width: 50%))
+#place(dx: 51%, dy: 8%, image("../img/tree2-yellow.png", width: 50%))
 #place(dx: 90%, dy: 57%, image("../img/flower1.png", width: 4%))
 #place(dx: 85%, dy: 78%, image("../img/flower3.png", width: 14%))
 #place(dx: 53%, dy: 65%, image("../img/flower4.png", width: 15%))
@@ -348,7 +348,7 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 #pagebreak()
 
 #place(dx: -30%, dy: 14%, image("../img/tree3.png", width: 80%))
-#place(dx: 55%, dy: -3%, image("../img/tree2.png", width: 70%))
+#place(dx: 55%, dy: -3%, image("../img/tree2-yellow.png", width: 70%))
 #place(dx: 42%, dy: 48%, rotate(180deg, image("../img/milli-back.png", width: 33%)))
 
 #pagebreak()
@@ -359,7 +359,7 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 Ez nem tűnt teljesen veszélytelen dolognak, ugyanis egy-két méter magasra is fel kellett jutni az ágak között. Milli viszont úgy érezte, hogy a nyolc lába elég biztonságot ad ehhez.
 ]
 
-#place(dx: -65%, dy: -73%, image("../img/tree2.png", width: 70%))
+#place(dx: -62%, dy: -67%, image("../img/tree2-yellow.png", width: 70%))
 
 #pagebreak()
 
@@ -454,8 +454,10 @@ Biztos segítenek majd." - és ásított egyet.
 
 #pagebreak()
 
-#place(dy: 15%, center)[
-  Ahogy kezdte elnyomni az álom, arra gondolt, hogy a következő hetekben is bőven lesz mit csemegézni.
+#place(dy: 25%, center)[
+  Lassan kezdte elnyomni az álom,
+  úgyhogy le is hajtotta a fejét
+  egy kényelmes zöld párnára.
 ]
 
 #place(dx: 5%, dy: 63%, image("../img/pillow.png", width: 33%))
@@ -464,7 +466,7 @@ Biztos segítenek majd." - és ásított egyet.
 #pagebreak()
 
 #place(dy: 60%, center)[
-  Ugyanis egy nagy láda almával tértek vissza Pomázról.
+ Közben arra gondolt, hogy a következő hetekben is bőven lesz mit csemegézni, ugyanis egy nagy láda almával tértek vissza Pomázról.
 ]
 
 #place(dx: 12%, dy: 16%, image("../img/chest.png", width: 75%))
