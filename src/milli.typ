@@ -94,9 +94,9 @@
 #place(dx: 5%, dy: 15%)[a sárgáról az alma,]
 
 #place(center, dy: 70%)[
-  (ugyanis Milli legjobban a golden almát szerette,
-  azt is akkor, \
-  ha a Pomázi Almáskertből való). 
+  ugyanis Milli legjobban a golden \
+  almát szerette, azt is akkor, \
+  ha a Pomázi Almáskertből való. 
 ]
 
 #place(dx: 75%, dy: 38%, image("../img/apple1.png", width: 20%))
@@ -107,8 +107,8 @@
 
 #place(center, dy: 15%)[
   Igen, Milli rajongott a gyümölcsökért.\
-  Mindig várta a nyarat, amikor Anyuka
-  különböző csemegékkel tért haza a
+  Mindig várta a nyarat, amikor Anyuka \
+  különböző csemegékkel tért haza a \
   szombat reggeli gazdapiacról.
 ]
 
@@ -136,11 +136,10 @@
 #pagebreak()
 
 #align(horizon)[
-  "Milyen finomságokat hoztál?" \
+  „Milyen finomságokat hoztál?#h(0.1em)” \
   -- tudakolta ilyenkor kíváncsian. \
-  Közben arra gondolt, \
-  hogy milyen szerencsés, \
-  hogy ehhez a családhoz tartozik.
+  Közben arra gondolt, hogy milyen \
+  szerencsés, hogy ehhez a családhoz tartozik.
 ]
 
 #pagebreak()
@@ -149,9 +148,9 @@
 
 #pagebreak()
 
-#place(dy: 15%)[Nyáron legjobban]
+#place(dy: 20%)[Nyáron legjobban]
 
-#place(dx: 20%, dy: 40%)[a cseresznyének,]
+#place(dx: 20%, dy: 30%)[a cseresznyének,]
 
 #place(dx: 29%, dy: 55%, image("../img/cherry1.png", width: 13%))
 #place(dx: 69%, dy: 4%, image("../img/cherry2.png", width: 18%))
@@ -198,8 +197,8 @@
   Amikor egyszer Milli erről beszélgetett barátjával, Sápival a kacsával, ő biztatni kezdte, \
   hogy merjen nagyot álmodni: \
   \
-  "Hátha eljutsz egyszer egy gyümölcsöskertbe, ahol a bokrokról, fákról eszegethetnél. \
-  Az lenne az igazi boldogság!"
+  „Hátha eljutsz egyszer egy gyümölcsöskertbe, ahol a bokrokról, fákról eszegethetnél. \
+  Az lenne az igazi boldogság!”
 ]
 
 #pagebreak()
@@ -253,6 +252,7 @@
 
 #pagebreak()
 
+// TODO: Too many commas? Also, breaking adjustment.
 #align(horizon)[
 Egy nap, Sápi biztatására,\
 kicsit félénken előállt az ötlettel\ Apinak és Anyukának, hogy egy őszi alkalommal szívesen
@@ -267,7 +267,7 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 #pagebreak()
 
 #place(dy: 25%, center)[
-  "Semmi akadálya" - mondta Api. \
+  „Semmi akadálya” -- mondta Api. \
   Ez a két szó Millit nagyon boldoggá tette.
 ]
 
@@ -288,7 +288,7 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 #pagebreak()
 
 #place(dy: 12%, center)[
-  Telt múlt az idő, rövidebbek lettek \
+  Telt-múlt az idő, rövidebbek lettek \
   a nappalok és hosszabbak az éjszakák. \
   Milli érezte, hogy ez az ősz beköszöntét jelzi.
 ]
@@ -310,7 +310,7 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 #pagebreak()
 
 #place(dx: 15%, dy: 42%, scale(x :-100%, image("../img/car.png", width: 72%)))
-#place(dx: 30.5%, dy: 53%, rotate(-92deg, image("../img/milli-car.png", width: 12%)))
+#place(dx: 30.5%, dy: 52%, rotate(-92deg, image("../img/milli-car.png", width: 12%)))
 
 #pagebreak()
 
@@ -323,10 +323,12 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 #pagebreak()
 
 #place(dy: 20%, center)[
-  Milli sokszor elképzelte, \
-  hogy milyen lehet egy igazi nagy almáskert. \
-  Amikor meglátta a pomázi kertet, \ elakadt a lélegzete.
+  Milli sokszor elképzelte, hogy \
+  milyen lehet egy igazi nagy almáskert. \
+  Amikor meglátta a pomázi kertet, \
+  elakadt a lélegzete.
   Hosszú, rendezett sorokban álltak a fák,
+  // TODO: Comma?
   mindegyiken csodás érett, piros és sárga almákkal.
 ]
 
@@ -352,17 +354,20 @@ elkísérné őket Pomázra. Természetesen csak ha\ ez nem jelent gondot.
 #pagebreak()
 
 #align(horizon)[
-"Melyikre is lenne érdemes felmászni?" \ 
+„Melyikre is lenne érdemes felmászni?#h(0.1em)” \ 
 -- tűnődött Milli. \
-Ez nem tűnt teljesen veszélytelen dolognak, ugyanis egy-két méter magasra is fel kellett jutni az ágak között. Milli viszont úgy érezte, hogy a nyolc lába elég biztonságot ad ehhez.
+Ez nem tűnt teljesen veszélytelen dolognak,
+ugyanis egy-két méter magasra is fel kellett jutni az ágak között.
+Milli viszont úgy érezte, hogy a nyolc lába elég biztonságot ad ehhez.
 ]
 
-#place(dx: -64%, dy: -69%, image("../img/tree2-yellow.png", width: 70%))
+#place(dx: -63.15%, dy: -68.5%, image("../img/tree2-yellow.png", width: 70%))
 
 #pagebreak()
 
 #align(horizon)[
-Persze Api és barátja, Gábor, bátorították \ és segítettek neki feljutni a legszebb gyümölcsök közelébe.
+Persze Api és barátja, Gábor, bátorították \
+és segítettek neki feljutni a legszebb gyümölcsök közelébe.
 ]
 
 #pagebreak()
@@ -385,8 +390,8 @@ Persze Api és barátja, Gábor, bátorították \ és segítettek neki feljutni
 #pagebreak()
 
 #align(horizon)[
-  "De legjobb, ha igen, ahogy ez ma velem megtörtént!"
-  -- mondta Milli. 
+  „De legjobb, ha igen, ahogy ez ma \
+  velem megtörtént!” -- mondta Milli. 
 ]
 
 #pagebreak()
@@ -415,9 +420,9 @@ Persze Api és barátja, Gábor, bátorították \ és segítettek neki feljutni
 #pagebreak()
 
 #place(dy: 15%, center)[
-  "Volt ott vagy száz fasor, \
+  „Volt ott vagy száz fasor, \
   mindegyikben lehetett úgy ötven fa, \
-  és minden fán teremhetett száz alma."
+  és minden fán teremhetett száz alma.”
 ]
 
 #place(dx: 24%, dy: 42%, image("../img/math1.png", width: 60%))
@@ -425,9 +430,11 @@ Persze Api és barátja, Gábor, bátorították \ és segítettek neki feljutni
 #pagebreak()
 
 #align(horizon)[
-  Milli próbált ezekkel \ a számokkal dolgozni.\
-  Sejtette, hogy \ össze kellene szorozni őket, \
-  de ez sehogy sem sikerült neki.
+  Milli próbált ezekkel \
+  a számokkal dolgozni.\
+  Sejtette, hogy össze \
+  kellene szorozni őket, de \
+  ez sehogy sem sikerült neki.
 ]
 
 #place(dx: 4%, dy: -47%, image("../img/q1.png", width: 15%))
@@ -438,12 +445,13 @@ Persze Api és barátja, Gábor, bátorították \ és segítettek neki feljutni
 #pagebreak()
 
 #align(horizon)[
-"Legjobb lesz holnap Ciszt és Kicsicicát megkérdezni erről a problémáról." \
+„Legjobb lesz holnap Ciszt és Kicsicicát megkérdezni erről a problémáról.” \
 \
-Tudta, hogy a barátainak komolyabb matematikai ismereteik vannak. \
+// TODO: "ismeretei" vs "ismereteik"
+Tudta, hogy barátainak komolyabb matematikai ismereteik vannak. \
 \
-"Tanulnom kellene tőlük számolni. \
-Biztos segítenek majd." - és ásított egyet.
+„Tanulnom kellene tőlük számolni. \
+Biztos segítenek majd.” -- és ásított egyet.
 ]
 
 #pagebreak()
@@ -455,7 +463,7 @@ Biztos segítenek majd." - és ásított egyet.
 #place(dy: 25%, center)[
   Lassan kezdte elnyomni az álom,
   úgyhogy le is hajtotta a fejét
-  egy kényelmes zöld párnára.
+  egy kényelmes párnára.
 ]
 
 #place(dx: 5%, dy: 63%, image("../img/pillow.png", width: 33%))
@@ -476,7 +484,7 @@ Biztos segítenek majd." - és ásított egyet.
 
 #place(dy: 75%, center)[
   #set text(size: 12pt)
-  Köszönjük Hoffmann Klára és Donkó István tanácsait és segítségüket a könyv szerkesztésében. 
+  Köszönjük Hoffmann Klára és Donkó István tanácsait és segítségét a könyv szerkesztésében. 
 ]
 
 #pagebreak()
