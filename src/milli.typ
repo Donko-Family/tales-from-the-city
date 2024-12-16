@@ -16,10 +16,12 @@
   fill: rgb("#f4f2e6"),
 )
 
+#set text(font: "Noto Sans")
+
 // Cover
 
 #show heading: it => [
-  #set text(font: "Noto Sans", weight: 100, size: 30pt)
+  #set text(weight: 100, size: 30pt)
   #(it.body)
 ]
 
@@ -27,13 +29,18 @@
   = Milli, a százlábú
 ]
 
+#place(center, dy: 85%)[
+  #set text(size: 14pt)
+  Donkó Zoltán - Donkó Eszter Klára
+]
 
-#place(center, dy: 40%, scale(x: -100%, image("../img/milli-cover.png")))
+
+#place(center, dy: 35%, scale(x: -100%, image("../img/milli-cover.png")))
 
 // Content
 
 #set align(center)
-#set text(font: "Noto Sans", size: 14pt)
+#set text(size: 14pt)
 
 #pagebreak(to: "even")
 
@@ -482,9 +489,18 @@ Biztos segítenek majd.” -- és ásított egyet.
 
 #pagebreak()
 
-#place(dy: 75%, center)[
+#place(center + horizon)[
   #set text(size: 12pt)
-  Köszönjük Hoffmann Klára és Donkó István tanácsait és segítségét a könyv szerkesztésében. 
+  Írta: Donkó Zoltán \
+  Rajzolta: Donkó Eszter Klára \
+  \
+  Köszönjük Hoffmann Klára és Donkó István tanácsait és segítségét a könyv szerkesztésében. \
+  \
+  Budaörs, 2024. \
+  \
+  mese.donko.hu \
+  \
+  ISBN 978-615-02-2558-6 \
 ]
 
 #pagebreak()
