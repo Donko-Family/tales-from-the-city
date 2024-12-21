@@ -31,7 +31,7 @@
 
 #place(center, dy: 85%)[
   #set text(size: 14pt)
-  Donkó Zoltán - Donkó Eszter Klára
+  //Donkó Zoltán - Donkó Eszter Klára
 ]
 
 
@@ -61,7 +61,7 @@
     írta: Donkó Zoltán\
     rajzolta: Donkó Eszter Klára\
     \
-    Budaörs, 2024
+    Budaörs, 2024.
   ])
 ]
 
@@ -491,12 +491,12 @@ Biztos segítenek majd.” -- és ásított egyet.
 
 #place(center + horizon)[
   #set text(size: 12pt)
-  Írta: Donkó Zoltán \
-  Rajzolta: Donkó Eszter Klára \
+  //Írta: Donkó Zoltán \
+ // Rajzolta: Donkó Eszter Klára \
   \
   Köszönjük Hoffmann Klára és Donkó István tanácsait és segítségét a könyv szerkesztésében. \
   \
-  Budaörs, 2024. \
+ // Budaörs, 2024. \
   \
   mese.donko.hu \
   \
