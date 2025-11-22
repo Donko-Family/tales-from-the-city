@@ -58,12 +58,12 @@
 
   #pad(top: 60pt, [
     #set text(size: 12pt)
-    Verfasst von: Zoltán Donkó\
-    Illustriert von: Eszter Klára Donkó\
-    Aus dem Ungarischen übertragen von: Nikola D. Schulze\
-    Lektorat: Márta Vass\
+    Verfasst von: Zoltán Donkó \
+    Illustriert von: Eszter Klára Donkó \
+    Aus dem Ungarischen übertragen von: Nikola D. Schulze \
+    Lektorat: Márta Vass \
     \
-    Budaörs (Wudersch), 2024.\
+    Budaörs (Wudersch), 2024. \
     Hattingen, 2025.
   ])
 ]
@@ -71,15 +71,15 @@
 #pagebreak(to: "even")
 
 #place(center, dy: 25%)[
-  Milli lebte in Wudersch, in der Mondscheinstraße,\
-  zusammen mit Mami und Papi und\
-  ihren Freunden, der Ente Quaki und den\
+  Milli lebte in Wudersch, in der Mondscheinstraße, \
+  zusammen mit Mami und Papi und \
+  ihren Freunden, der Ente Quaki und den \
   beiden Katzen Sissi und Kitty.
 ]
 #place(center, dy: 55%)[
-  Obwohl Milli eine Tausendfüßlerin war,\
-  hatte sie tatsächlich nur acht Beine.\
-  Aber das störte weder sie noch sonst jemanden,\
+  Obwohl Milli eine Tausendfüßlerin war, \
+  hatte sie tatsächlich nur acht Beine. \
+  Aber das störte weder sie noch sonst jemanden, \
   denn ihre Beine waren wunderschön bunt gefärbt.
 ]
 
@@ -90,8 +90,8 @@
 #pagebreak(to: "even")
 
 #place(center, dy: 15%)[
-  Warum ist es gut, wenn jemand bunte Beine hat?\
-  In Millis Fall war das gut, denn zu jeder\
+  Warum ist es gut, wenn jemand bunte Beine hat? \
+  In Millis Fall war das gut, denn zu jeder \
   Farbe kam ihr eine andere Frucht in den Sinn.
 ]
 
@@ -112,8 +112,8 @@
 #place(dx: 5%, dy: 15%)[bei Gelb der Apfel,]
 
 #place(center, dy: 70%)[
-  weil Milli am liebsten die Sorte\
-  Goldapfel aus einem ganz bestimmten\
+  weil Milli am liebsten die Sorte \
+  Goldapfel aus einem ganz bestimmten \
   uralten Obstgarten mochte.
 ]
 
@@ -124,9 +124,9 @@
 #pagebreak(to: "even")
 
 #place(center, dy: 15%)[
-  Ja, Milli liebte Obst. Sie freute sich immer auf\
-  den Sommer, wenn Mami jeden Samstagmorgen\
-  mit verschiedenen Köstlichkeiten vom\
+  Ja, Milli liebte Obst. Sie freute sich immer auf \
+  den Sommer, wenn Mami jeden Samstagmorgen \
+  mit verschiedenen Köstlichkeiten vom \
   Bauernmarkt nach Hause zurückkam.
 ]
 
@@ -154,9 +154,9 @@
 #pagebreak()
 
 #align(horizon)[
-  „Welche Leckereien hast du heute mitgebracht?#h(0.1em)“\
-  – fragte sie dann neugierig.\
-  Und sie dachte immer, was für ein Glück sie hatte,\
+  „Welche Leckereien hast du heute mitgebracht?#h(0.1em)“ \
+  – fragte sie dann neugierig. \
+  Und sie dachte immer, was für ein Glück sie hatte, \
   zu dieser Familie zu gehören.
 ]
 
@@ -200,7 +200,7 @@
 #pagebreak()
 
 #place(dy: 22%, center)[
-  Aber das wahre Glück kam im Herbst,\
+  Aber das wahre Glück kam im Herbst, \
   wenn die Äpfel anfingen zu reifen.
 ]
 
@@ -211,14 +211,14 @@
 #pagebreak()
 
 #align(horizon)[
-  Natürlich ist Obst am saftigsten, wenn es\
-  frisch ist. Als Milli einmal mit ihrem Freund,\
-  der Ente Quaki, darüber sprach, begann der sie\
-  zu ermutigen, große Träume zu haben:\
+  Natürlich ist Obst am saftigsten, wenn es \
+  frisch ist. Als Milli einmal mit ihrem Freund, \
+  der Ente Quaki, darüber sprach, begann der sie \
+  zu ermutigen, große Träume zu haben: \
   \
-  „Vielleicht wirst du eines Tages den\
-  alten Obstgarten sehen, wo man von\
-  Büschen und Bäumen essen kann.\
+  „Vielleicht wirst du eines Tages den \
+  alten Obstgarten sehen, wo man von \
+  Büschen und Bäumen essen kann. \
   Das wäre wahres Glück.“
 ]
 
@@ -239,15 +239,15 @@
 #pagebreak()
 
 #align(horizon)[
-  Millis großer Traum war es nämlich, einmal\
-  in einen Obstgarten zu gehen, am liebsten\
+  Millis großer Traum war es nämlich, einmal \
+  in einen Obstgarten zu gehen, am liebsten \
   in den uralten, wo der Goldapfel wuchs.
 ]
 
 #pagebreak()
 
 #place(dx: 20%, dy: 18%, center)[
-  Du kannst dort auf die Bäume\
+  Du kannst dort auf die Bäume \
   hinaufklettern
 ]
 
@@ -257,7 +257,7 @@
 #pagebreak()
 
 #place(dy: 70%, center)[
-  und kräftig in einen frischen,\
+  und kräftig in einen frischen, \
   sonnengereiften Apfel beißen.
 ]
 
@@ -267,10 +267,10 @@
 #pagebreak()
 
 #align(horizon)[
-  Eines Tages, ermutigt von Quaki, kam sie\
-  auf die Idee, dass sie Mami und Papi in\
-  diesem Herbst gerne in den Obstgarten\
-  begleiten würde. Natürlich nur, wenn das\
+  Eines Tages, ermutigt von Quaki, kam sie \
+  auf die Idee, dass sie Mami und Papi in \
+  diesem Herbst gerne in den Obstgarten \
+  begleiten würde. Natürlich nur, wenn das \
   für sie in Ordnung wäre.
 ]
 
@@ -282,7 +282,7 @@
 #pagebreak()
 
 #place(dy: 25%, center)[
-  „Kein Problem“, sagte Papi.\
+  „Kein Problem“, sagte Papi. \
   Diese beiden Worte machten Milli sehr glücklich.
 ]
 
@@ -291,7 +291,7 @@
 #pagebreak()
 
 #place(dy: 60%, center)[
-  Wenn sie zählen könnte, hätte sie die Tage\
+  Wenn sie zählen könnte, hätte sie die Tage \
   bis zur großen Reise heruntergezählt.
 ]
 
@@ -303,8 +303,8 @@
 #pagebreak()
 
 #place(dy: 12%, center)[
-  Die Zeit verging, die Tage wurden kürzer\
-  und die Nächte länger. Milli hatte das Gefühl,\
+  Die Zeit verging, die Tage wurden kürzer \
+  und die Nächte länger. Milli hatte das Gefühl, \
   dass dies den Beginn des Herbstes anzeigte.
 ]
 
@@ -330,21 +330,21 @@
 #pagebreak()
 
 #align(horizon)[
-  Endlich war der Tag da, an dem Mami und Papi\
-  sich auf den Weg zum Obstgarten machten,\
+  Endlich war der Tag da, an dem Mami und Papi \
+  sich auf den Weg zum Obstgarten machten, \
   jetzt zum ersten Mal zusammen mit Milli.
 ]
 
 #pagebreak()
 
 #place(dy: 15%, center)[
-  Milli hatte sich oft vorgestellt, wie ein richtig\
-  großer Obstgarten aussehen könnte.\
+  Milli hatte sich oft vorgestellt, wie ein richtig \
+  großer Obstgarten aussehen könnte. \
   \
-  Als sie den Obstgarten nun zum ersten Mal\
-  wirklich sah, hielt sie lange den Atem an.\
-  Die Bäume standen in langen Reihen,\
-  jeder voll mit vielen schönen, reifen,\
+  Als sie den Obstgarten nun zum ersten Mal \
+  wirklich sah, hielt sie lange den Atem an. \
+  Die Bäume standen in langen Reihen, \
+  jeder voll mit vielen schönen, reifen, \
   roten und golden glänzenden Äpfeln.
 ]
 
@@ -370,13 +370,13 @@
 #pagebreak()
 
 #align(horizon)[
-  „Auf welche Bäume soll ich klettern?#h(0.1em)“\
-  überlegte sich Milli.\
+  „Auf welche Bäume soll ich klettern?#h(0.1em)“ \
+  überlegte sich Milli. \
   \
-  Das musste wohlbedacht sein, da man\
-  ein oder zwei Meter in die Höhe\
-  klettern musste, um zwischen die Äste\
-  zu gelangen. Würden ihre acht Beine\
+  Das musste wohlbedacht sein, da man \
+  ein oder zwei Meter in die Höhe \
+  klettern musste, um zwischen die Äste \
+  zu gelangen. Würden ihre acht Beine \
   ihr hierfür genügend Halt bieten?
 ]
 
@@ -385,7 +385,7 @@
 #pagebreak()
 
 #align(horizon)[
-  Natürlich ermutigten Papi und Mami sie und\
+  Natürlich ermutigten Papi und Mami sie und \
   halfen ihr, an die schönsten Früchte zu gelangen.
 ]
 
@@ -400,20 +400,20 @@
 #pagebreak()
 
 #align(horizon)[
-  Dieser Tag im Obstgarten war wunderschön.\
-  An diesem Abend erzählte Milli auch Quaki\
-  von ihren Erlebnissen.\
+  Dieser Tag im Obstgarten war wunderschön. \
+  An diesem Abend erzählte Milli auch Quaki \
+  von ihren Erlebnissen. \
   \
-  Sie waren sich einig, dass man immer Träume\
-  haben sollte, auch wenn man nicht sicher\
+  Sie waren sich einig, dass man immer Träume \
+  haben sollte, auch wenn man nicht sicher \
   sein kann, ob sie jemals wahr werden.
 ]
 
 #pagebreak()
 
 #align(horizon)[
-  „Aber am besten ist es, wenn es so ist\
-  wie heute, wenn es wirklich passiert!“,\
+  „Aber am besten ist es, wenn es so ist \
+  wie heute, wenn es wirklich passiert!“, \
   sagte Milli.
 ]
 
@@ -435,16 +435,16 @@
 #pagebreak()
 
 #align(horizon)[
-  Milli dachte vor dem Einschlafen noch einmal\
-  an die Erlebnisse des Tages. Sie fragte sich,\
+  Milli dachte vor dem Einschlafen noch einmal \
+  an die Erlebnisse des Tages. Sie fragte sich, \
   wie viele Äpfel wohl in dem Garten wuchsen:
 ]
 
 #pagebreak()
 
 #place(dy: 15%, center)[
-  „Dort gab es etwa hundert Baumreihen,\
-  jede hatte etwa fünfzig Bäume, und jeder\
+  „Dort gab es etwa hundert Baumreihen, \
+  jede hatte etwa fünfzig Bäume, und jeder \
   Baum könnte hundert Äpfel hervorbringen.“
 ]
 
@@ -453,7 +453,7 @@
 #pagebreak()
 
 #align(horizon)[
-  Milli probierte es mit den Zahlen auszurechnen,\
+  Milli probierte es mit den Zahlen auszurechnen, \
   aber sie wusste nicht, wie das geht.
 ]
 
@@ -465,13 +465,13 @@
 #pagebreak()
 
 #align(horizon)[
-  „Am besten besprechen wir das morgen mit\
-  Sissi und Kitty, um dieses Problem zu lösen.“\
-  Sie wusste, dass ihre Freundinnen gut\
-  rechnen konnten.\
+  „Am besten besprechen wir das morgen mit \
+  Sissi und Kitty, um dieses Problem zu lösen.“ \
+  Sie wusste, dass ihre Freundinnen gut \
+  rechnen konnten. \
   \
-  „Von ihnen sollte ich das Zählen lernen.“\
-  Die werden mir sicher helfen.“ – murmelte\
+  „Von ihnen sollte ich das Zählen lernen.“ \
+  Die werden mir sicher helfen.“ – murmelte \
   sie gähnend.
 ]
 
@@ -482,8 +482,8 @@
 #pagebreak()
 
 #place(dy: 25%, center)[
-  Langsam begann sie der Schlaf zu\
-  überwältigen, also legte sie ihren Kopf\
+  Langsam begann sie der Schlaf zu \
+  überwältigen, also legte sie ihren Kopf \
   auf ihr grünes Lieblingskissen.
 ]
 
@@ -493,9 +493,9 @@
 #pagebreak()
 
 #place(dy: 60%, center)[
-  Und sie träumte von den kommenden\
-  Wochen. Es gab so viele Äpfel zu essen,\
-  weil Mami und Papi eine riesengroße Kiste\
+  Und sie träumte von den kommenden \
+  Wochen. Es gab so viele Äpfel zu essen, \
+  weil Mami und Papi eine riesengroße Kiste \
   voll gepflückt und mitgenommen hatten.
 ]
 
@@ -511,8 +511,8 @@
   //Írta: Donkó Zoltán \
   // Rajzolta: Donkó Eszter Klára \
   \
-  Wir danken Klára Hoffmann, István Donkó und\
-  Emma Schulze für Rat und Hilfe bei\
+  Wir danken Klára Hoffmann, István Donkó und \
+  Emma Schulze für Rat und Hilfe bei \
   der Bearbeitung dieses Buches. \
   \
   // Budaörs, 2024. \
