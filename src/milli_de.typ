@@ -40,7 +40,7 @@
 // Content
 
 #set align(center)
-#set text(size: 14pt)
+#set text(size: 13pt)
 
 #pagebreak(to: "even")
 
