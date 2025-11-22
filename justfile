@@ -1,5 +1,5 @@
-compile:
-  typst compile --root . src/milli.typ out/milli.pdf
+compile lang:
+  typst compile --root . src/milli_{{lang}}.typ out/milli_{{lang}}.pdf
 
-watch:
-  typst watch --root . src/milli.typ out/milli.pdf
+watch lang:
+  typst watch --root . src/milli_{{lang}}.typ out/milli_{{lang}}.pdf
