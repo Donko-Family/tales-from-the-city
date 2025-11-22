@@ -58,11 +58,10 @@
 
   #pad(top: 60pt, [
     #set text(size: 12pt)
-Verfasst von: Zoltán Donkó\
-Illustriert von: Eszter Klára Donkó\
-Aus dem Ungarischen übertragen von: Nikola D. Schulze\
-Lektorat: Márta Vass\
-
+    Verfasst von: Zoltán Donkó\
+    Illustriert von: Eszter Klára Donkó\
+    Aus dem Ungarischen übertragen von: Nikola D. Schulze\
+    Lektorat: Márta Vass\
     \
     Budaörs (Wudersch), 2024.\
     Hattingen, 2025.
@@ -72,16 +71,16 @@ Lektorat: Márta Vass\
 #pagebreak(to: "even")
 
 #place(center, dy: 25%)[
-Milli lebte in Wudersch, in der Mondscheinstraße,\
-zusammen mit Mami und Papi und\
-ihren Freunden, der Ente Quaki und den\
-beiden Katzen Sissi und Kitty.
+  Milli lebte in Wudersch, in der Mondscheinstraße,\
+  zusammen mit Mami und Papi und\
+  ihren Freunden, der Ente Quaki und den\
+  beiden Katzen Sissi und Kitty.
 ]
 #place(center, dy: 55%)[
-Obwohl Milli eine Tausendfüßlerin war,\
-hatte sie tatsächlich nur acht Beine.\
-Aber das störte weder sie noch sonst jemanden,\
-denn ihre Beine waren wunderschön bunt gefärbt.\
+  Obwohl Milli eine Tausendfüßlerin war,\
+  hatte sie tatsächlich nur acht Beine.\
+  Aber das störte weder sie noch sonst jemanden,\
+  denn ihre Beine waren wunderschön bunt gefärbt.
 ]
 
 #pagebreak()
@@ -91,9 +90,9 @@ denn ihre Beine waren wunderschön bunt gefärbt.\
 #pagebreak(to: "even")
 
 #place(center, dy: 15%)[
-Warum ist es gut, wenn jemand bunte Beine hat?\
-In Millis Fall war das gut, denn zu jeder\
-Farbe kam ihr eine andere Frucht in den Sinn.\
+  Warum ist es gut, wenn jemand bunte Beine hat?\
+  In Millis Fall war das gut, denn zu jeder\
+  Farbe kam ihr eine andere Frucht in den Sinn.
 ]
 
 #place(dy: 50%)[Bei Rot war es die Kirsche,]
@@ -115,7 +114,7 @@ Farbe kam ihr eine andere Frucht in den Sinn.\
 #place(center, dy: 70%)[
   weil Milli am liebsten die Sorte\
   Goldapfel aus einem ganz bestimmten\
-  uralten Obstgarten mochte. 
+  uralten Obstgarten mochte.
 ]
 
 #place(dx: 75%, dy: 38%, image("../img/apple1.png", width: 20%))
@@ -125,10 +124,10 @@ Farbe kam ihr eine andere Frucht in den Sinn.\
 #pagebreak(to: "even")
 
 #place(center, dy: 15%)[
-Ja, Milli liebte Obst. Sie freute sich immer auf\
-den Sommer, wenn Mami jeden Samstagmorgen\ 
-mit verschiedenen Köstlichkeiten vom\
-Bauernmarkt nach Hause zurückkam.
+  Ja, Milli liebte Obst. Sie freute sich immer auf\
+  den Sommer, wenn Mami jeden Samstagmorgen\
+  mit verschiedenen Köstlichkeiten vom\
+  Bauernmarkt nach Hause zurückkam.
 ]
 
 #place(dx: 23%, dy: 70%, rotate(120deg, image("../img/raspberry.png", width: 20%)))
@@ -155,10 +154,10 @@ Bauernmarkt nach Hause zurückkam.
 #pagebreak()
 
 #align(horizon)[
-„Welche Leckereien hast du heute mitgebracht?#h(0.1em)“\
-– fragte sie dann neugierig.\
-Und sie dachte immer, was für ein Glück sie hatte,\
-zu dieser Familie zu gehören.
+  „Welche Leckereien hast du heute mitgebracht?#h(0.1em)“\
+  – fragte sie dann neugierig.\
+  Und sie dachte immer, was für ein Glück sie hatte,\
+  zu dieser Familie zu gehören.
 ]
 
 #pagebreak()
@@ -201,8 +200,8 @@ zu dieser Familie zu gehören.
 #pagebreak()
 
 #place(dy: 22%, center)[
-Aber das wahre Glück kam im Herbst,\
-wenn die Äpfel anfingen zu reifen.
+  Aber das wahre Glück kam im Herbst,\
+  wenn die Äpfel anfingen zu reifen.
 ]
 
 #place(dx: 42%, dy: 46%, image("../img/applecycle4-red.png", width: 40%))
@@ -212,15 +211,15 @@ wenn die Äpfel anfingen zu reifen.
 #pagebreak()
 
 #align(horizon)[
-Natürlich ist Obst am saftigsten, wenn es\
-frisch ist. Als Milli einmal mit ihrem Freund,\
-der Ente Quaki, darüber sprach, begann der sie\
-zu ermutigen, große Träume zu haben:\
-\
-„Vielleicht wirst du eines Tages den\
-alten Obstgarten sehen, wo man von\
-Büschen und Bäumen essen kann.\
-Das wäre wahres Glück.“
+  Natürlich ist Obst am saftigsten, wenn es\
+  frisch ist. Als Milli einmal mit ihrem Freund,\
+  der Ente Quaki, darüber sprach, begann der sie\
+  zu ermutigen, große Träume zu haben:\
+  \
+  „Vielleicht wirst du eines Tages den\
+  alten Obstgarten sehen, wo man von\
+  Büschen und Bäumen essen kann.\
+  Das wäre wahres Glück.“
 ]
 
 #pagebreak()
@@ -240,16 +239,16 @@ Das wäre wahres Glück.“
 #pagebreak()
 
 #align(horizon)[
-Millis großer Traum war es nämlich, einmal\
-in einen Obstgarten zu gehen, am liebsten\
-in den uralten, wo der Goldapfel wuchs.
+  Millis großer Traum war es nämlich, einmal\
+  in einen Obstgarten zu gehen, am liebsten\
+  in den uralten, wo der Goldapfel wuchs.
 ]
 
 #pagebreak()
 
 #place(dx: 20%, dy: 18%, center)[
   Du kannst dort auf die Bäume\
-   hinaufklettern
+  hinaufklettern
 ]
 
 
@@ -259,7 +258,7 @@ in den uralten, wo der Goldapfel wuchs.
 
 #place(dy: 70%, center)[
   und kräftig in einen frischen,\
-   sonnengereiften Apfel beißen.
+  sonnengereiften Apfel beißen.
 ]
 
 #place(dx: 9%, dy: 7%, scale(x:-100%, image("../img/milli-eating.png", width: 24%)))
@@ -268,11 +267,11 @@ in den uralten, wo der Goldapfel wuchs.
 #pagebreak()
 
 #align(horizon)[
-Eines Tages, ermutigt von Quaki, kam sie\
-auf die Idee, dass sie Mami und Papi in\
-diesem Herbst gerne in den Obstgarten\
-begleiten würde. Natürlich nur, wenn das\
-für sie in Ordnung wäre.
+  Eines Tages, ermutigt von Quaki, kam sie\
+  auf die Idee, dass sie Mami und Papi in\
+  diesem Herbst gerne in den Obstgarten\
+  begleiten würde. Natürlich nur, wenn das\
+  für sie in Ordnung wäre.
 ]
 
 #pagebreak()
@@ -283,8 +282,8 @@ für sie in Ordnung wäre.
 #pagebreak()
 
 #place(dy: 25%, center)[
-„Kein Problem“, sagte Papi.\
-Diese beiden Worte machten Milli sehr glücklich.
+  „Kein Problem“, sagte Papi.\
+  Diese beiden Worte machten Milli sehr glücklich.
 ]
 
 #place(dx: 22%, dy: 46%, scale(x: -100%, image("../img/milli-happy.png", width: 65%)))
@@ -304,9 +303,9 @@ Diese beiden Worte machten Milli sehr glücklich.
 #pagebreak()
 
 #place(dy: 12%, center)[
-Die Zeit verging, die Tage wurden kürzer\
-und die Nächte länger. Milli hatte das Gefühl,\ 
-dass dies den Beginn des Herbstes anzeigte.
+  Die Zeit verging, die Tage wurden kürzer\
+  und die Nächte länger. Milli hatte das Gefühl,\
+  dass dies den Beginn des Herbstes anzeigte.
 ]
 
 #place(dx: 7%, dy: 53%, image("../img/leaf1.png", width: 17%))
@@ -331,22 +330,22 @@ dass dies den Beginn des Herbstes anzeigte.
 #pagebreak()
 
 #align(horizon)[
-Endlich war der Tag da, an dem Mami und Papi\
-sich auf den Weg zum Obstgarten machten,\
-jetzt zum ersten Mal zusammen mit Milli.
+  Endlich war der Tag da, an dem Mami und Papi\
+  sich auf den Weg zum Obstgarten machten,\
+  jetzt zum ersten Mal zusammen mit Milli.
 ]
 
 #pagebreak()
 
 #place(dy: 15%, center)[
-Milli hatte sich oft vorgestellt, wie ein richtig\
-großer Obstgarten aussehen könnte.\ 
-\
-Als sie den Obstgarten nun zum ersten Mal\
-wirklich sah, hielt sie lange den Atem an.\
-Die Bäume standen in langen Reihen,\
-jeder voll mit vielen schönen, reifen,\
-roten und golden glänzenden Äpfeln.
+  Milli hatte sich oft vorgestellt, wie ein richtig\
+  großer Obstgarten aussehen könnte.\
+  \
+  Als sie den Obstgarten nun zum ersten Mal\
+  wirklich sah, hielt sie lange den Atem an.\
+  Die Bäume standen in langen Reihen,\
+  jeder voll mit vielen schönen, reifen,\
+  roten und golden glänzenden Äpfeln.
 ]
 
 #place(dx: 6%, dy: 87%, image("../img/flower6.png", width: 19%))
@@ -371,14 +370,14 @@ roten und golden glänzenden Äpfeln.
 #pagebreak()
 
 #align(horizon)[
-„Auf welche Bäume soll ich klettern?#h(0.1em)“\
-überlegte sich Milli.\
-\
-Das musste wohlbedacht sein, da man\
-ein oder zwei Meter in die Höhe\
-klettern musste, um zwischen die Äste\
-zu gelangen. Würden ihre acht Beine\
-ihr hierfür genügend Halt bieten?
+  „Auf welche Bäume soll ich klettern?#h(0.1em)“\
+  überlegte sich Milli.\
+  \
+  Das musste wohlbedacht sein, da man\
+  ein oder zwei Meter in die Höhe\
+  klettern musste, um zwischen die Äste\
+  zu gelangen. Würden ihre acht Beine\
+  ihr hierfür genügend Halt bieten?
 ]
 
 #place(dx: -63.15%, dy: -68.5%, image("../img/tree2-yellow.png", width: 70%))
@@ -386,8 +385,8 @@ ihr hierfür genügend Halt bieten?
 #pagebreak()
 
 #align(horizon)[
-Natürlich ermutigten Papi und Mami sie und\
-halfen ihr, an die schönsten Früchte zu gelangen.
+  Natürlich ermutigten Papi und Mami sie und\
+  halfen ihr, an die schönsten Früchte zu gelangen.
 ]
 
 #pagebreak()
@@ -401,21 +400,21 @@ halfen ihr, an die schönsten Früchte zu gelangen.
 #pagebreak()
 
 #align(horizon)[
-Dieser Tag im Obstgarten war wunderschön.\
-An diesem Abend erzählte Milli auch Quaki\
-von ihren Erlebnissen.\
-\
-Sie waren sich einig, dass man immer Träume\
-haben sollte, auch wenn man nicht sicher\
-sein kann, ob sie jemals wahr werden.
+  Dieser Tag im Obstgarten war wunderschön.\
+  An diesem Abend erzählte Milli auch Quaki\
+  von ihren Erlebnissen.\
+  \
+  Sie waren sich einig, dass man immer Träume\
+  haben sollte, auch wenn man nicht sicher\
+  sein kann, ob sie jemals wahr werden.
 ]
 
 #pagebreak()
 
 #align(horizon)[
-„Aber am besten ist es, wenn es so ist\
-wie heute, wenn es wirklich passiert!“,\
-sagte Milli.
+  „Aber am besten ist es, wenn es so ist\
+  wie heute, wenn es wirklich passiert!“,\
+  sagte Milli.
 ]
 
 #pagebreak()
@@ -436,17 +435,17 @@ sagte Milli.
 #pagebreak()
 
 #align(horizon)[
-Milli dachte vor dem Einschlafen noch einmal\
- an die Erlebnisse des Tages. Sie fragte sich,\
- wie viele Äpfel wohl in dem Garten wuchsen:
+  Milli dachte vor dem Einschlafen noch einmal\
+  an die Erlebnisse des Tages. Sie fragte sich,\
+  wie viele Äpfel wohl in dem Garten wuchsen:
 ]
 
 #pagebreak()
 
 #place(dy: 15%, center)[
-„Dort gab es etwa hundert Baumreihen,\
-jede hatte etwa fünfzig Bäume, und jeder\
-Baum könnte hundert Äpfel hervorbringen.“
+  „Dort gab es etwa hundert Baumreihen,\
+  jede hatte etwa fünfzig Bäume, und jeder\
+  Baum könnte hundert Äpfel hervorbringen.“
 ]
 
 #place(dx: 24%, dy: 42%, image("../img/math1.png", width: 60%))
@@ -466,15 +465,14 @@ Baum könnte hundert Äpfel hervorbringen.“
 #pagebreak()
 
 #align(horizon)[
-
-„Am besten besprechen wir das morgen mit\
-Sissi und Kitty, um dieses Problem zu lösen.“\
-Sie wusste, dass ihre Freundinnen gut\
-rechnen konnten.\
-\
-„Von ihnen sollte ich das Zählen lernen.“\
-Die werden mir sicher helfen.“ – murmelte\
-sie gähnend.
+  „Am besten besprechen wir das morgen mit\
+  Sissi und Kitty, um dieses Problem zu lösen.“\
+  Sie wusste, dass ihre Freundinnen gut\
+  rechnen konnten.\
+  \
+  „Von ihnen sollte ich das Zählen lernen.“\
+  Die werden mir sicher helfen.“ – murmelte\
+  sie gähnend.
 ]
 
 #pagebreak()
@@ -484,9 +482,9 @@ sie gähnend.
 #pagebreak()
 
 #place(dy: 25%, center)[
-Langsam begann sie der Schlaf zu\
-überwältigen, also legte sie ihren Kopf\
-auf ihr grünes Lieblingskissen.
+  Langsam begann sie der Schlaf zu\
+  überwältigen, also legte sie ihren Kopf\
+  auf ihr grünes Lieblingskissen.
 ]
 
 #place(dx: 5%, dy: 63%, image("../img/pillow.png", width: 33%))
@@ -495,10 +493,10 @@ auf ihr grünes Lieblingskissen.
 #pagebreak()
 
 #place(dy: 60%, center)[
-Und sie träumte von den kommenden\
-Wochen. Es gab so viele Äpfel zu essen,\
-weil Mami und Papi eine riesengroße Kiste\
-voll gepflückt und mitgenommen hatten.
+  Und sie träumte von den kommenden\
+  Wochen. Es gab so viele Äpfel zu essen,\
+  weil Mami und Papi eine riesengroße Kiste\
+  voll gepflückt und mitgenommen hatten.
 ]
 
 #place(dx: 12%, dy: 16%, image("../img/chest.png", width: 75%))
@@ -511,13 +509,13 @@ voll gepflückt und mitgenommen hatten.
 #place(center + horizon)[
   #set text(size: 12pt)
   //Írta: Donkó Zoltán \
- // Rajzolta: Donkó Eszter Klára \
+  // Rajzolta: Donkó Eszter Klára \
   \
   Wir danken Klára Hoffmann, István Donkó und\
   Emma Schulze für Rat und Hilfe bei\
   der Bearbeitung dieses Buches. \
   \
- // Budaörs, 2024. \
+  // Budaörs, 2024. \
   \
   mese.donko.hu \
   \
