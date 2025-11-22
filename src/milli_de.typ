@@ -380,7 +380,7 @@
   ihr hierfür genügend Halt bieten?
 ]
 
-#place(dx: -63.15%, dy: -68.5%, image("../img/tree2-yellow.png", width: 70%))
+#place(dx: -63.15%, dy: -72.5%, image("../img/tree2-yellow.png", width: 70%))
 
 #pagebreak()
 
