@@ -154,8 +154,8 @@
 #pagebreak()
 
 #align(horizon)[
-  „Welche Leckereien hast du heute mitgebracht?#h(0.1em)“ \
-  – fragte sie dann neugierig. \
+  „Welche Leckereien hast du heute mitgebracht?#h(0.1em)“, \
+  fragte sie dann neugierig. \
   Und sie dachte immer, was für ein Glück sie hatte, \
   zu dieser Familie zu gehören.
 ]
@@ -370,7 +370,7 @@
 #pagebreak()
 
 #align(horizon)[
-  „Auf welche Bäume soll ich klettern?#h(0.1em)“ \
+  „Auf welche Bäume soll ich klettern?#h(0.1em)“, \
   überlegte sich Milli. \
   \
   Das musste wohlbedacht sein, da man \
@@ -470,8 +470,8 @@
   Sie wusste, dass ihre Freundinnen gut \
   rechnen konnten. \
   \
-  „Von ihnen sollte ich das Zählen lernen.“ \
-  Die werden mir sicher helfen.“ – murmelte \
+  „Von ihnen sollte ich das Zählen lernen. \
+  Die werden mir sicher helfen.“, murmelte \
   sie gähnend.
 ]
 
