@@ -391,7 +391,7 @@
 
 #pagebreak()
 
-#place(dx: -3%, dy: 0%, image("../img/milli-tree.png", width: 120%))
+#place(center + horizon, image("../img/milli-tree.png", width: 110%))
 
 #pagebreak()
 
