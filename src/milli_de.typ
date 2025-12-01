@@ -51,20 +51,22 @@
 #pagebreak()
 
 #align(horizon)[
-  #pad(bottom: 60pt, [
+  #pad(bottom: 50pt, [
     #set text(size: 28pt)
     Milli, die Tausendfüßlerin
   ])
 
-  #pad(top: 60pt, [
-    #set text(size: 12pt)
+  #pad(top: 50pt, [
+    #set text(size: 11pt)
     Verfasst von: Zoltán Donkó \
     Illustriert von: Eszter Klára Donkó \
+    #v(0.8em, weak: true)
+    _Budaörs (Wudersch), 2024._ \
+    \
     Aus dem Ungarischen übertragen von: Nikola D. Schulze \
     Lektorat: Márta Vass \
-    \
-    Budaörs (Wudersch), 2024. \
-    Hattingen, 2025.
+    #v(0.8em, weak: true)
+    _Hattingen, 2025._
   ])
 ]
 
